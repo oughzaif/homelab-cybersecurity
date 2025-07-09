@@ -91,3 +91,4 @@ I'm Mohamed Oughzaif, a self-taught cybersecurity enthusiast building a strong f
 > 🧠 *This homelab is for educational purposes only. All tests are performed in isolated virtual machines I fully control.*
 
 ```
+⚠️ This lab is for educational purposes only. All machines are virtual, isolated, and fully under my control. I do not perform any unauthorized testing.
