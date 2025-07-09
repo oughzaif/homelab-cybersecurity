@@ -83,7 +83,7 @@ This lab allows me to:
 I'm Mohamed Oughzaif, a self-taught cybersecurity enthusiast building a strong foundation in both offensive and defensive security.
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-oughzaif-a6406a246/)
-* 💻 [GitHub](https://github.com/SecretsDev)
+* 💻 [GitHub](https://github.com/oughzaif)
 * 🌐 Portfolio: Coming Soon!
 
 ---
